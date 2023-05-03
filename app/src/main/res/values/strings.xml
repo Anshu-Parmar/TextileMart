@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TextileMart</string>
+    <string name="todotry" />
+    <string name="enter_email" />
+    <string name="Confirm_password" />
+    <string name="register" />
+    <string name="enter_password" />
+    <string name="next" />
+    <string name="register1">register</string>
+    <string name="confirm_password1">Confirm password:</string>
+    <string name="password1">password:</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="next1">next</string>
+    <string name="email1">email:</string>
+    <string name="company_login">company_login</string>
+    <string name="remember_me">remember_me</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="gender">Gender</string>
+    <string name="contact_number">Contact_number</string>
+    <string name="enter_email1">Enter Email</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>

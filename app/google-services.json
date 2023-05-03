@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512728527879",
+    "project_id": "textilemart-2d81a",
+    "storage_bucket": "textilemart-2d81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512728527879:android:364edf04052e0494e426a2",
+        "android_client_info": {
+          "package_name": "com.example.textilemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512728527879-t1ffjl7pgjfc1krivnhm33uci2n6td4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textilemart",
+            "certificate_hash": "a6a11c4f4ccbcb1f92d8a5e24bb0e6fa8b171938"
+          }
+        },
+        {
+          "client_id": "512728527879-14enl834l88e2o15q9g3s5a2kefa1lid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmLJGDuf1kJY_Bt1Syiw6ISYts_Kj4sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512728527879-14enl834l88e2o15q9g3s5a2kefa1lid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
